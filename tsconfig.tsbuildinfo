@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/config/app.config.ts","./src/config/database.config.ts","./src/config/env.config.ts","./src/constant/enum.constant.ts","./src/entities/base.entity.ts","./src/entities/user.entity.ts","./src/interface/user.interface.ts","./src/middleware/index.middleware.ts"],"version":"5.7.2"}
