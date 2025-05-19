@@ -21,4 +21,7 @@ export class USER extends Base {
 
   @Column({ name: "address" })
   address: string;
+
+  @Column({ name: "verified", default: false })
+  verified: boolean;
 }

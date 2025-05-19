@@ -5,3 +5,5 @@ interface userInterface {
   password: string;
   address: string;
 }
+
+export default userInterface;
